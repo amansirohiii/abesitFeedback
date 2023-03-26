@@ -236,7 +236,7 @@ CREATE TABLE `student_list` (
 INSERT INTO `student_list` (`id`, `school_id`, `firstname`, `lastname`, `email`, `password`, `class_id`, `avatar`, `date_created`) VALUES
 (1, '17', 'Aman', 'Sirohi', 'aman@sirohi.com', '1254737c076cf867dc53d60a0364f38e', 1, '1608012360_avatar.jpg', '2020-12-15 14:06:14'),
 (2, '34', 'Dhruv', 'Kumar', 'dhruv@kumar.com', '4744ddea876b11dcb1d169fadf494418', 2, '1608012720_47446233-clean-noir-et-gradient-sombre-image-de-fond-abstrait-.jpg', '2020-12-15 14:12:03'),
-(3, '21', 'Anurag', 'Yadav', 'anurag@yadav.com', '3cc93e9a6741d8b40460457139cf8ced', 1, '1608034680_1605601740_download.jpg', '2020-12-15 20:18:22');
+(3, '21', 'Anurag', 'Yadav', 'anurag@yadav.com', '3cc93e9a6741d8b40460457139cf8ced', 1, '1608034680_1605601740_download.jpg', '2020-12-15 20:18:22'),
 (4, '15', 'Aman', 'Sharma', 'aman@sharma.com', '3cc93e9a6741d8b40460457139cf8ced', 1, '1608034680_1605601740_download.jpg', '2020-12-15 20:18:22');
 
 -- --------------------------------------------------------
